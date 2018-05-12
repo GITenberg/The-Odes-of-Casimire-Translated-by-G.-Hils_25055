@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28378
     wikipedia: http://en.wikipedia.org/wiki/Maciej_Kazimierz_Sarbiewski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25055#The-Odes-of-Casimire-Translated-by-G.-Hils
 gutenberg_issued: '2008-04-12'
 gutenberg_type: Text
 identifiers:
