@@ -1,0 +1,44 @@
+_repo: The-Odes-of-Casimire-Translated-by-G.-Hils_25055
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Roestvig, Maren-Sofie
+    gutenberg_agent_id: '28379'
+    url: http://www.gutenberg.org/2009/agents/28379
+  translator:
+    agent_name: Hils, G.
+    alias: Hils, G.
+    gutenberg_agent_id: '28377'
+    url: http://www.gutenberg.org/2009/agents/28377
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sarbiewski, Maciej Kazimierz
+    aliases:
+    - Sarbiewski, Mathias Casimire
+    - Sarbievius, Mathias Casimir
+    birthdate: 1595
+    deathdate: 1640
+    gutenberg_agent_id: '28378'
+    url: http://www.gutenberg.org/2009/agents/28378
+    wikipedia: http://en.wikipedia.org/wiki/Maciej_Kazimierz_Sarbiewski
+description: ''
+gutenberg_issued: '2008-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25055'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 44
+subjects:
+- !lcsh 'Latin poetry'
+- !lcc 'PA'
+- !lcsh 'Latin poetry -- Translations into English'
+title: The Odes of Casimire, Translated by G. Hils
+url: http://www.gutenberg.org/ebooks/25055
